@@ -64,7 +64,12 @@ main menu img
     width: 80px;
 }
 
-main div
+.dsa
+{
+    margin-top: 4%;
+}
+
+.asd div
 {
     display: flex;
     justify-content: center;
